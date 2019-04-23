@@ -1,6 +1,6 @@
-workflow "Gatsby to GitHub Pages" {
-  on = "push"
+workflow "Gatsby Build and deploy on push to GitHub Pages" {
   resolves = ["Publish"]
+  on = "push"
 }
 
 action "On Master Branch" {
