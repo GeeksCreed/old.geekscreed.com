@@ -1,4 +1,4 @@
-workflow "Gatsby Build and deploy on push to GitHub Pages" {
+workflow "Gatsby Build and deploy to GitHub Pages on push " {
   resolves = ["Publish"]
   on = "push"
 }
