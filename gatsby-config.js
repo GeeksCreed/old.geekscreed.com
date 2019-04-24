@@ -23,19 +23,19 @@ module.exports = {
   plugins: [
     ...(process.env.NODE_ENV === 'production'
       ? [
-          {
-            resolve: 'gatsby-plugin-guess-js',
-            options: {
-              // Find the view id in the GA admin in a section labeled "views"
-              GAViewID: `184855678`,
-              minimumThreshold: 0.03,
-              // The "period" for fetching analytic data.
-              period: {
-                startDate: new Date('2018-12-1'),
-                endDate: new Date()
-              }
-            }
-          },
+          //           {
+          //             resolve: 'gatsby-plugin-guess-js',
+          //             options: {
+          //               // Find the view id in the GA admin in a section labeled "views"
+          //               GAViewID: `184855678`,
+          //               minimumThreshold: 0.03,
+          //               // The "period" for fetching analytic data.
+          //               period: {
+          //                 startDate: new Date('2018-12-1'),
+          //                 endDate: new Date()
+          //               }
+          //             }
+          //           },
           {
             resolve: `gatsby-plugin-google-analytics`,
             options: {
