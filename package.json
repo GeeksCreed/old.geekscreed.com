@@ -4,8 +4,9 @@
   "description": "Webiste for GeeksCreed. Powered by Gatsby",
   "private": true,
   "scripts": {
-    "dev": "gatsby develop",
+    "develop": "gatsby develop",
     "build": "gatsby build",
+    "clean": "gatsby clean",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -16,12 +17,12 @@
   "author": "Sasivarnan R <sasivarnan@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^2.3.23",
-    "gatsby-plugin-google-analytics": "^2.0.18",
-    "gatsby-plugin-guess-js": "^1.0.5",
-    "gatsby-plugin-manifest": "^2.0.29",
-    "gatsby-plugin-offline": "^2.0.25",
-    "gatsby-theme-ghost-casper": "https://github.com/sasivarnan/gatsby-theme-ghost-casper.git",
+    "gatsby": "^2.13.4",
+    "gatsby-plugin-google-analytics": "^2.1.1",
+    "gatsby-plugin-guess-js": "^1.1.0",
+    "gatsby-plugin-manifest": "^2.2.1",
+    "gatsby-plugin-offline": "^2.2.1",
+    "gatsby-theme-ghost-casper": "*",
     "prism-themes": "^1.1.0",
     "prismjs": "^1.16.0"
   }
