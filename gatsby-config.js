@@ -21,7 +21,9 @@ module.exports = {
   plugins: [
     {
       resolve: 'gatsby-theme-ghost-casper',
-      options: {},
+      options: {
+        title: 'GeeksCreed',
+      },
     },
     ...(process.env.NODE_ENV === 'production'
       ? [
