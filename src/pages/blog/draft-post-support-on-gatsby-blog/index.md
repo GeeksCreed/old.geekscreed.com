@@ -24,6 +24,8 @@ Let's enhance our blog powered by `markdown` files to skip all the posts which a
 
 First of all, pick your first published post and add `draft: false`. This will make gatsby to create the `graphQL` schema for `markdownRemark` with `draft` field in it, which is needed in while querying.
 
+> **Note:** Gatsby infers the schema during the initial load of the development server. Hence you need to restart the gatsby development server in order to add `drafts` property to the gatsby schema.
+
 Add the following filter in every page where you are querying `allMarkdownRemark`.
 
 ```diff

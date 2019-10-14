@@ -22,7 +22,7 @@ In addition to that, they also provide professional email, WordPress hosting and
 
 ### DigitalOcean
 
-[DigitalOcean](https://m.do.co/c/47627b4e916e) is a cloud infrastructure company which provides services like Virtual Private Servers, Load Balancers, DNS Management, Block Storage, Object storage and more. DigitalOcean is known for their predictable pricing and simpler to use platform. We use their DNS management service for powering this site. 
+[DigitalOcean](https://m.do.co/c/47627b4e916e) is a cloud infrastructure company which provides services like Virtual Private Servers, Load Balancers, DNS Management, Block Storage, Object storage and more. DigitalOcean is known for their predictable pricing and simpler to use platform. We use their DNS management service for powering this site.
 
 ### GitHub
 
@@ -33,8 +33,12 @@ In addition to that, they also provide professional email, WordPress hosting and
 [Disqus](https://disqus.com/) is a blog comment hosting service. Disqus can be integrated easily with various services like `Wordpress`, `Tumblr` and also for most static site generators like `Jekyll`, `Hexo` and so on.
 It adapts well both in mobile and web. It also offers upvotes, downvotes, threaded replies to the comments.
 
-A basic overview of the tools and services that used for building and hosting this blog is given. 
+### Unsplash
 
-The technologies and services that we use might change in future. In case we change our stack, will update this article accordingly. 
+[Unsplash](https://unsplash.com/) hosts a huge collection of royalty-free stock photos uploaded by various users around the internet. We are using the images from Unsplash for various images in the site. Check out the collection of images that we are using in this website over [here](https://unsplash.com/collections/3677951/geekscreed).
+
+A basic overview of the tools and services that used for building and hosting this blog is given.
+
+The technologies and services that we use might change in future. In case we change our stack, will update this article accordingly.
 
 Love the way that is used for our existence on the internet. _Share your **comments** below._
