@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/about.js"],"names":["About","props"],"mappings":"6FAAA,gCAIeA,UAFD,SAACC,GAAD,OAAW","file":"component---src-pages-about-js-aa55c125583006b1d53d.js","sourcesContent":["import React from \"react\";\n\nconst About = (props) => <div>About</div>\n\nexport default About;"],"sourceRoot":""}
