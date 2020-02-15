@@ -17,13 +17,13 @@
   "author": "Sasivarnan R <sasivarnan@hotmail.com>",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^2.13.4",
-    "gatsby-plugin-google-analytics": "^2.1.1",
-    "gatsby-plugin-guess-js": "^1.1.0",
-    "gatsby-plugin-manifest": "^2.2.1",
-    "gatsby-plugin-offline": "^2.2.1",
+    "gatsby": "^2.19.17",
+    "gatsby-plugin-google-analytics": "^2.1.35",
+    "gatsby-plugin-guess-js": "^1.1.30",
+    "gatsby-plugin-manifest": "^2.2.41",
+    "gatsby-plugin-offline": "^3.0.34",
     "gatsby-theme-ghost-casper": "*",
-    "prism-themes": "^1.1.0",
-    "prismjs": "^1.16.0"
+    "prism-themes": "^1.3.0",
+    "prismjs": "^1.19.0"
   }
 }
